@@ -19,3 +19,21 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+Here are the supplementary terms of the license.
+If they conflict with the original terms, follow the terms below.
+If there is a conflict between the agreements in different languages, the Chinese version shall prevail.
+
+Regional Usage Recommendation and Disclaimer of Liability:
+The use of this project is not recommended within China or other regions with strict financial regulations. Users are responsible for ensuring that their use of this software complies with the laws and regulations of their respective regions, especially in highly regulated financial areas (such as China). Should users in China or similarly regulated regions choose to use this software, they assume full responsibility for any resulting legal or financial liabilities, and the developers shall bear no responsibility for such use.
+地区性使用建议与责任声明：
+本项目不建议在中国境内或其他金融监管严格的地区使用。使用者有责任确保其使用本软件符合所在地区的法律法规，尤其是在金融领域高度受限的地区（如中国）。如在中国境内或受类似监管的地区使用本软件，由此引发的任何法律或经济责任均由用户自行承担，开发者不对此承担任何责任。
+
+Legitimacy of Financial Data Sources: Users of this project are responsible for ensuring that the data sources used during the project’s application are legal and compliant, especially in regions with strict data compliance requirements (such as mainland China). To assist users in obtaining compliant data sources, this project recommends using Wind Financial Data or the open-source project efinance (GitHub repository: https://github.com/Micro-sheep/efinance). Please note that this project assumes no responsibility for the accuracy, completeness, or any liabilities related to the recommended data sources. Users must independently verify the suitability and compliance of the data and assume full responsibility.
+金融数据来源的合法性：使用本项目的用户应确保在使用过程中所采用的数据来源合法且合规，特别是在数据合规性要求严格的地区（如中国大陆）。为了帮助用户获取合规的数据来源，本项目推荐使用 Wind（万得）数据或开源项目 efinance（GitHub 仓库地址：https://github.com/Micro-sheep/efinance）。需注意的是，本项目对推荐数据来源的准确性、完整性或任何相关责任概不负责，用户需自行验证数据的适用性与合规性，并承担全部责任。
+
+Responsibility for Derivative Works: If this project is used as the basis for derivative works or modifications, all resulting consequences, including any legal or regulatory risks, are the sole responsibility of the individual or organization that conducted the derivative development. The original developer assumes no responsibility for any issues, liabilities, or legal risks arising from derivative works based on this project.
+二次开发责任声明：若本项目被用于二次开发或修改，由此产生的所有后果，包括任何法律或合规风险，均由进行二次开发的个人或组织独立承担。本项目的原开发者不对基于本项目的衍生作品所引发的任何问题、责任或法律风险承担任何责任。
+
+Dynamic Agreement Clause: The developers reserve the right to update this agreement at any time in response to changes in financial regulatory policies and legal requirements to ensure the project’s legality and compliance. Users should regularly review and agree to the latest terms of this agreement before continuing to use the project.
+协议动态性声明：开发者保留根据金融监管政策和法律变化随时更新本协议的权利，以确保项目的合法合规。用户在继续使用本项目前应定期查阅并同意最新的协议条款。
